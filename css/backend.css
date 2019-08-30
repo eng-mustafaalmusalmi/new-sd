@@ -1,0 +1,16 @@
+.main_menu .logo{
+    color: green;
+    font-size: xx-large;
+    font-weight: bold;
+    background-color:#a9adb5;
+}
+.countdownContainer{
+			text-align: center;
+			background: #ddd;
+			border: 1px solid #999;
+			box-shadow: 0 0 5px 3px #ccc;
+		}
+
+		.info {
+			font-size: 80px;
+		}
